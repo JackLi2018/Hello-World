@@ -1,2 +1,4 @@
 # Hello-World
-OK, My first Repository!
+OK, my first repository!
+
+Hi,I want to do something. 
